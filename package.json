@@ -9,6 +9,7 @@
   "author": "Vulcan Tech Pinch",
   "license": "ISC",
   "dependencies": {
+    "@box/cli": "^3.1.0",
     "express": "^4.18.1",
     "express-ws": "^5.0.2",
     "node-pty": "^0.10.1",
