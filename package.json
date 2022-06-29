@@ -1,0 +1,21 @@
+{
+  "name": "boxcli-embed",
+  "version": "1.0.0",
+  "description": "Node app running the Box CLI to be embedded in the Box developer console.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vulcan Tech Pinch",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "express-ws": "^5.0.2",
+    "node-pty": "^0.10.1",
+    "xterm": "^4.18.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.18",
+    "parcel": "^2.6.2"
+  }
+}
